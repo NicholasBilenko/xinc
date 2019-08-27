@@ -1,0 +1,24 @@
+header {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  top: 0;
+  z-index: 1000;
+  .header {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: flex-end;
+    a {
+      color: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .signup {
+      margin-left: 15px;
+    }
+  }
+}
