@@ -5,5 +5,5 @@ npm run i
 cd server && npm run start
 
 ## Client
-npm run server
+npm run start
 
